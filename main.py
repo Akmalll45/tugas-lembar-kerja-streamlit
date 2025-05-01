@@ -47,7 +47,7 @@ st.subheader("bagian pertama : pengunaan element text")
 st.caption("disclamer dulu ini hanya tugas, jadi kalau ada kesalahan mohon dimaafkan")
 st.code('import numpy as np, pandas as pd, ploty.express as px, streamlit as st, requests')
 st.latex(r'Rumus regresi sederhana: Y = a + bX')
-st.markdown('contoh pengaturan tesk: **teks tebal** dan _teks miring_ serta [link](https://docs.hermanto.xyz/algoritma-dan-pemrograman-dasar/python-dan-machine-learning/streamlit#id-3.1-elemen-text)')
+st.markdown('contoh pengaturan tesk: **teks tebal** dan _teks miring_ serta [link](https://akmalllsaham01.streamlit.app/)')
 
 
 link = 'https://webapi.bps.go.id/v1/api/list/model/data/lang/ind/domain/0000/var/2266/key/[WebAPI_KEY]'
